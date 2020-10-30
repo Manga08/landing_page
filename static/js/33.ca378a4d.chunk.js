@@ -1,0 +1,2 @@
+(this["webpackJsonp@devias-io/material-kit-pro-react"]=this["webpackJsonp@devias-io/material-kit-pro-react"]||[]).push([[33],{1268:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n),i=a(284),r=Object(n.lazy)((function(){return a.e(19).then(a.bind(null,1226))}));t.default=function(){return l.a.createElement(i.a,{title:"Api Calls"},l.a.createElement(n.Suspense,{fallback:null},l.a.createElement(r,null)))}}}]);
+//# sourceMappingURL=33.ca378a4d.chunk.js.map
